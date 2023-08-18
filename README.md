@@ -1,2 +1,2 @@
 # Online_Mobile_Shop
-An advanced Online Mobile Shop using Java Spring Boot &amp; React.js. Created robust buyer-admin modules with strong validation, ensuring data integrity. Implemented secure sessions for seamless functionality, prioritizing user trust.
+A sophisticated Online Mobile Shop platform, harnessing the power of Java Spring Boot (J2EE) for backend orchestration and React.js for frontend interface. Crafted distinct, feature-rich buyer and admin modules, fortified by meticulous validation protocols to guarantee data accuracy and system reliability. Elevated user trust and engagement through adept implementation of secure session management, underscoring a commitment to seamless functionality and safeguarding sensitive information.
